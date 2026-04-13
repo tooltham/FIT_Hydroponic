@@ -1,7 +1,6 @@
 # FIT_Hydroponic System V.1.6
 ## 🥬 Smart Hydroponic Control System by IoTES LAB
 
-![IoT LAB](https://i0.wp.com/fit.rmuti.ac.th/wp-content/uploads/2019/06/FIT2-1.png?fit=992%2C1162&ssl=1)
 
 ---
 
@@ -37,4 +36,3 @@
    - Compile และ Upload ไปยัง ESP32 บอร์ด
 
 ---
-*Maintained and Audited by Mori Minami (Mina) - Engineering Advisor to IoTES LAB*
