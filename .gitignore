@@ -1,0 +1,15 @@
+# Arduino ignore
+*.o
+*.elf
+*.bin
+*.hex
+*.dfu
+*.map
+*.lst
+*.obj
+
+# Secrets
+FIT_Hydroponic/secrets.h
+
+# MacOS
+.DS_Store
